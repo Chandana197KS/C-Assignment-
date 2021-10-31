@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635689533 source:g:\fast tract c bridge course\assignment2_211058031\assignment2.c
+	"assignment2.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635689513 g:\fast tract c bridge course\assignment2_211058031\assignment2.h
+
