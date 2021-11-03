@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1634079931 source:d:\assignmentads\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635956064 source:g:\fast tract c bridge course\assignment1_211058031\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Assignment1.h"
+	<assert.h>
+
+1635956768 g:\fast tract c bridge course\assignment1_211058031\assignment1.h
+
+1635956797 source:g:\fast tract c bridge course\assignment1_211058031\assignment1.c
+	<stdio.h>
+	<stdlib.h>
+	"Assignment1.h"
+
